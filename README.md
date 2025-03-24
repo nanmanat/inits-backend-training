@@ -1,7 +1,6 @@
 ## **Prerequisites:**
 - Install **Node.js**, **PostgreSQL**, and **Postman**
 - Code editor (**VS Code** recommended)
-- Basic understanding of JavaScript (not mandatory but helpful)
 
 ---
 
