@@ -5,18 +5,7 @@
 
 ---
 
-## **Introduction to Backend (1 Hour)**
-### **Concepts Covered**
-1. What is backend development?  
-2. Difference between frontend & backend  
-3. Overview of backend components:
-   - **Server**: Processes requests, runs business logic
-   - **Database**: Stores and retrieves data
-   - **APIs**: Connect frontend and backend
-4. **How web applications work** (Request-Response cycle)
-5. Tools & technologies used in backend (**Node.js, Express, PostgreSQL, REST APIs**)
-
-### Setting up a Backend Project**
+### **Setting up a Backend Project**
 1. Open **VS Code** and initialize a Node.js project:
    ```sh
    mkdir backend-workshop && cd backend-workshop
